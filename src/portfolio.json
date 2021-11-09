@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "name": "The Sneaker Collector",
+        "image": "https://github.com/UofTL/react-portfolio/raw/master/src/assets/images/thesneakerscollector.PNG",
+        "github": "https://github.com/UofTL/the-sneakers-collector",
+        "deploy": "https://peaceful-fortress-81224.herokuapp.com/",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 2,
+        "name": "mvc tech blog",
+        "image": "https://github.com/UofTL/react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
+        "github": "https://github.com/UofTL/tech-blog.git",
+        "deploy": "https://warm-cliffs-43989.herokuapp.com/",
+        "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    },
+    {
+        "id": 3,
+        "name": "budget tracker",
+        "image": "https://github.com/UofTL/react-portfolio/raw/master/src/assets/images/pwabudget.PNG",
+        "github": "https://github.com/UofTL/progressive-web-applications-budget-tracker.git",
+        "deploy": "https://safe-spire-21849.herokuapp.com/",
+        "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+        "id": 4,
+        "name": "weather dashboard",
+        "image": "https://github.com/UofTL/react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
+        "github": "https://github.com/UofTL/weather-forecast",
+        "deploy": "https://uoftl.github.io/weather-forecast/",
+        "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+        "id": 5,
+        "name": "daily planner",
+        "image": "https://github.com/UofTL/react-portfolio/raw/master/src/assets/images/workdayscheduler.PNG",
+        "github": "https://github.com/UofTL/daily-planner.git",
+        "deploy": "https://uoftl.github.io/daily-planner/",
+        "topics": "HTML, CSS, Moment"
+    },
+    {
+        "id": 6,
+        "name": "taskmaster",
+        "image": "https://github.com/UofTL/react-portfolio/raw/master/src/assets/images/taskmaster.PNG",
+        "github": "https://github.com/UofTL/taskmaster-pro.git",
+        "deploy": "https://uoftl.github.io/taskmaster-pro/",
+        "topics": "HTML, Javascript, CSS"
+    }
+]
