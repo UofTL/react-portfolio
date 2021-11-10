@@ -6,7 +6,7 @@ function ProjectCards(props) {
     return (
       <div className="card"> 
         <div className="img-container">
-          <img alt={props.name} src={props.image}/>
+          <img alt={props.name} src={require(`../../assets/images/${props.image}`).default}/>
         </div>
         <div className="content">
               <p className="project-title" id="card-title">{props.name}</p>
@@ -16,7 +16,7 @@ function ProjectCards(props) {
               </p>
               <p id="topics">
                     ({props.topics})
-                </p>
+                </p> 
         </div>
       </div>
     );

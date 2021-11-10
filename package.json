@@ -43,7 +43,7 @@
     "bugs": {
         "url": "https://github.com/UofTL/react-portfolio/issues"
     },
-    "homepage": "https://github.com/UofTL/react-portfolio#readme",
+    "homepage": "https://uoftl.github.io/react-portfolio",
     "dependencies": {
         "@testing-library/jest-dom": "^5.15.0",
         "@testing-library/react": "^12.1.2",
