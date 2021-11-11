@@ -5,9 +5,9 @@
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 **[Deployed Application](https://uoftl.github.io/react-portfolio/)**
   
-💻 Below is a screenshot and demo of the application:
+💻 Below is a screenshot and video of the application:
   ![image](https://user-images.githubusercontent.com/84641285/141231442-b834908d-0bbe-4728-85f5-0b189ff7bd7c.png)
-  ![markdown-preview-image](https://watch.screencastify.com/v/wguV3IbgHjAwZkB9ILmN)
+  [here.](https://watch.screencastify.com/v/wguV3IbgHjAwZkB9ILmN)
   ## User Story
 
 ```md
