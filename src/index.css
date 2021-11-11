@@ -54,6 +54,7 @@ h1 {
 }
 
 #navigation a {
+    width: auto;
     color: var(--orange-soda);
     padding-left: 1em;
     font-weight: bold;
