@@ -7,7 +7,7 @@
   
 💻 Below is a screenshot and demo of the application:
   ![image](https://user-images.githubusercontent.com/84641285/141231442-b834908d-0bbe-4728-85f5-0b189ff7bd7c.png)
-  ![markdown-preview-image](https://watch.screencastify.com/v/wguV3IbgHjAwZkB9ILmN))
+  ![markdown-preview-image](https://watch.screencastify.com/v/wguV3IbgHjAwZkB9ILmN)
   ## User Story
 
 ```md
@@ -75,5 +75,5 @@ npm i
   - npm start
   ## Github Repository
 [Github](https://github.com/UofTL/react-portfolio.git)
-### Team Members  |  Github Link
+### Contributor
 Eleonore Caclard  | [Github](https://github.com/UofTL)
