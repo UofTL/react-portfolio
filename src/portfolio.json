@@ -45,14 +45,5 @@
         "github": "https://github.com/UofTL/taskmaster-pro",
         "deploy": "https://uoftl.github.io/taskmaster-pro/",
         "topics": "HTML, Javascript, CSS"
-    },
-    {
-        "id": 7,
-        "name": "Google Book Search",
-        "image": "booksearch.PNG",
-        "github": " https://github.com/UofTL/MERN-book-search-engine",
-        "deploy": "https://shielded-anchorage-66124.herokuapp.com/",
-        "topics": "MERN, GraphQL"
     }
-
 ]
